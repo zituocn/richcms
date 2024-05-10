@@ -1,5 +1,7 @@
 # RichCMS
 
+[](https://github.com/zituocn/richcms/blob/main/photo/logo.png)
+
 是一个使用`Go语言`开发的通用CMS系统，可用于个人网站、SEO内容站、企业官网、Blog等；
 
 ## 官网&&技术支持
