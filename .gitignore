@@ -1,0 +1,21 @@
+# RichCMS .gitignore
+# 2024-05-10 zituocn
+
+
+# directory
+node_modules/
+.idea/
+test/
+.vscode/
+dist/
+build/
+vendor/
+logs/
+.sass-cache/
+
+
+
+# macos
+.DS_Store
+*.dat
+.swp
