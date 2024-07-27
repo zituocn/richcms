@@ -7,9 +7,9 @@
 ## 官网&&技术支持
 
 1. 项目地址：https://github.com/zituocn/richcms
-2. 项目官网：https://www.zituo.net
-3. 项目文档：https://www.zituo.net/docs
-4. 技术支持：https://www.zituo.net/support
+2. 项目官网：https://www.richcms.net
+3. 项目文档：https://www.richcms.net/docs
+4. 技术支持：https://www.richcms.net/support
 
 
 
@@ -59,11 +59,12 @@
 * gini  - https://github.com/zituocn/gini
 * gorm 
 * goredis
-* tabler 
+* tabler
+* wangeditor
 
 ## 技术支持
 
 * QQ群：535629261
 * 邮箱：zituocn#gmail.com
-* 官网：https://www.zituo.net 
+* 官网：https://www.richcms.net 
 
