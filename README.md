@@ -7,9 +7,10 @@
 ## 官网&&技术支持
 
 1. 项目地址：https://github.com/zituocn/richcms
-2. 项目官网：https://www.richcms.net
-3. 项目文档：https://www.richcms.net/docs
-4. 技术支持：https://www.richcms.net/support
+2. 项目官网：https://www.richcms.cn
+3. 项目文档：https://www.richcms.cn/docs
+4. 技术支持：https://www.richcms.cn/support
+5. 安装包下载：https://www.richcms.cn/down
 
 
 
@@ -22,10 +23,11 @@
 * 支持`多系统` Windows、Linux、Unix、BSD、MAC等系统，不需要额外环境配置；
 * 有效使用内存和redis缓存，`性能卓越`；
 * 文档完善，使用标准的Go模板，可自行扩展用户端页面；
-* 支持附件上传到主流对象存储；
+* 支持附件上传到主流对象存储：阿里云，腾讯云、华为云、七牛云等；
 * 可自定义用户端页面访问地址；
 * 支持鉴权的`API`，可扩展到APP和小程序开发；
 * 人性化的`SEO功能`，分布到各个模块；
+* 记录：搜索引擎蜘蛛访问日志
 
 
 ## 说明
@@ -43,6 +45,10 @@
 * 路由配置
 * 站点配置
 * 定时任务: 百度收录提交、百度收录检测、文章定时发布
+* 日志系统
+* 数据库自动或手动备份
+* 搜索引擎蜘蛛日志
+
 
 
 ## 使用的技术
@@ -66,5 +72,5 @@
 
 * QQ群：535629261
 * 邮箱：zituocn#gmail.com
-* 官网：https://www.richcms.net 
+* 官网：https://www.richcms.cn 
 
