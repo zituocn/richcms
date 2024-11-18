@@ -2,7 +2,12 @@
 
 是一个使用`Go语言`开发的通用CMS系统，可用于个人网站、SEO内容站、企业官网、Blog等；
 
-![logo](https://raw.githubusercontent.com/zituocn/richcms/main/photo/logo.png "richcms")
+![logo](https://www.richcms.net/static/front/site/img/logo.png "richcms")
+
+## 安装
+
+* 获取安装包 (https://www.richcms.net/down)
+
 
 ## 官网&&技术支持
 
@@ -11,7 +16,6 @@
 3. 项目文档：https://www.richcms.net/docs
 4. 技术支持：https://www.richcms.net/support
 5. 安装包下载：https://www.richcms.net/down
-
 
 
 ## 特性
@@ -27,8 +31,34 @@
 * 可自定义用户端页面访问地址；
 * 支持鉴权的`API`，可扩展到APP和小程序开发；
 * 人性化的`SEO功能`，分布到各个模块；
-* 记录：搜索引擎蜘蛛访问日志
+* 搜索引擎蜘蛛访问日志记录；
+* 防止恶意爬虫；
 
+## 管理后台截图
+
+* 登录界面
+![](https://p1.richcms.net/article/20240724/19ec60d7bbcf4eea.png)
+
+* 管理首页
+![](https://p1.richcms.net/article/20240724/0d42747f77978754.png)
+
+* 站点配置
+![](https://p1.richcms.net/article/20240724/68f191c81d1d612d.png)
+
+* 栏目管理
+![](https://p1.richcms.net/article/20240724/ee4ea697c1ec749f.png)
+
+* 发布文章
+![](https://p1.richcms.net/article/20240724/a6a19d246f62eb36.png)
+
+* 路由管理
+![](https://p1.richcms.net/article/20240724/069aab39e406e5b7.png)
+
+* 数据库备份
+![](https://p1.richcms.net/article/20240724/d79a4f2b6c40498b.png)
+
+* 蜘蛛日志
+![](https://p1.richcms.net/article/20240724/f72bdc7406d7e402.png)
 
 ## 说明
 * 无爬虫、抓取等功能模块；
@@ -44,7 +74,7 @@
 * 留言
 * 路由配置
 * 站点配置
-* 定时任务: 百度收录提交、百度收录检测、文章定时发布
+* 定时任务: 百度收录提交、百度收录检测、文章定时发布、Bing IndexNow
 * 日志系统
 * 数据库自动或手动备份
 * 搜索引擎蜘蛛日志
